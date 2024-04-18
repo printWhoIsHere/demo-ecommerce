@@ -14,8 +14,7 @@ This part of the project represents the minimal functional e-commerce store. It 
 
 To get started with the project:
 
-## Clone the repository.
-
-Navigate to each project (demo-ecommerce-admin and demo-ecommerce-store) and install dependencies using npm i.
-Set up the database using Prisma prisma generate.
-Start the Next.js server using pnpm run dev.
+1. Clone the repository.
+2. Navigate to each project (`demo-ecommerce-admin` and `demo-ecommerce-store`) and install dependencies using `pnpm i`.
+3. Set up the database using Prisma `prisma generate`.
+4. Start the Next.js server using `pnpm run dev`.
